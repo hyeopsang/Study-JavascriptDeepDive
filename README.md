@@ -10,7 +10,7 @@
 ## 👥 스터디 멤버
 | 이름 | GitHub |
 | :---: | :---: |
-| **유상협** | [Profile](https://github.com/상협아이디) |
+| **유상협** | [Profile](https://github.com/hyeopsang) |
 | **김현석** | [Profile](https://github.com/현석아이디) |
 | **김수환** | [Profile](https://github.com/수환아이디) |
 
